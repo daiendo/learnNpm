@@ -1,0 +1,27 @@
+{
+  "name": "@daiend/npm",
+  "version": "1.0.1",
+  "description": "npm study",
+  "main": "index.js",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2",
+    "how-to-npm": "^2.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "daiend"
+  ],
+  "author": "daiend",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daiendo/learnNpm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daiendo/learnNpm/issues"
+  },
+  "homepage": "https://github.com/daiendo/learnNpm#readme"
+}
